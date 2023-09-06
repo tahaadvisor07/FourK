@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+/* Logo Styling */
+/* Logo Styling */
+/* Logo Styling */
+.logo-link{
+    font-family: arial;
+    font-weight: 900;
+}
+
+.span-4k{
+    color: rgb(0, 0, 255);
+}
+/* Home-Type Nav Styling */
+/* Home-Type Nav Styling */
+/* Home-Type Nav Styling */
+/* Home-Type Nav Styling */
+.navbar-nav{
+    margin-left: 2%;
+    gap: 1.2rem;
+}
+
+.home-type-ul:hover{
+color: white;
+}
+
+.home-type-li{
+    font-size: 1rem;
+    font-family: 'Poppins ', sans-serif ;
+    transition: 0.2s;
+    border: 2px transparent solid;
+    border-radius: 20px;
+}
+
+.home-type-li:hover{
+    color: white;
+    background-color: rgb(73, 151, 234);
+    border-radius: 2px;
+    border-radius: 20px;
+    
+}
+.input-for-textbox:hover{
+    border: 1.5px solid rgb(11, 99, 171);
+}
+
+.active-nav{
+    background-color: rgb(151, 151, 229);
+    border: 1px transparent solid;
+    color: black;
+    border-radius: 20px;
+}
+
+/*  */
+
+.free-yt{
+    text-align: center;
+    font-family: 'Gilroy';
+}
+
+.form-group{
+    margin-top: 5px;
+}
+
+.box{
+    width: 65%;
+    position: relative;
+    left: -5%;
+    padding-right: 5%;
+}
+
+.instruction{
+    background-color: rgb(234, 242, 242);
+    border-radius: 10px;
+    width: 65%;
+}
+
+.info-type{
+    font-size: 1.2rem;
+
+}
+
+/* Footer */
+/* Footer */
+/* Footer */
+/* Footer */
+
+.footer-services-a{
+    color: black;
+    opacity: 90%;
+    text-decoration: none;
+}
+
+.footer-services-a:hover{
+    text-decoration: underline;
+}
+
+
+/* RESPONSIVE  */
+/* RESPONSIVE  */
+/* RESPONSIVE  */
+/* RESPONSIVE  */
+/* RESPONSIVE  */
+ 
+
+
+
+
